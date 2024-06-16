@@ -7,12 +7,12 @@ PROJECT DESCRIPTION:
 ### How to Run
 
 1. Clone the Repository: 
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone (repository-url)
+   cd (repository-directory)
    
 
 2. Run the Application:
-   python <filename>.py
+   python (filename).py
 
 ### Code Explanation
 
